@@ -3,6 +3,12 @@
 
 These exercises are designed to help you practice working with lists and loops in Python.
 
+Cheat sheets if you need to look up any Python commands.
+
+https://github.com/phil-lewis-exe/PythonCheatSheets/blob/main/Week1_cheatsheet.md
+
+https://github.com/phil-lewis-exe/PythonCheatSheets/blob/main/Week2_cheatsheet.md
+
 ---
 
 ## TASKS
